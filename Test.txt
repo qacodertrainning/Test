@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 change
 lolll
+=======
+hello
+>>>>>>> parent of f23c0a8 (commit to repo)
